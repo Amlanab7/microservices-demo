@@ -8,15 +8,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="twitter-to-kafka-service" />
+        <module name="kafka-admin" />
+        <module name="app-config-data" />
+        <module name="kafka-model" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="microservices-demo" target="11" />
-      <module name="twitter-to-kafka-service" target="11" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="app-config-data" options="-parameters" />
+      <module name="kafka" options="" />
+      <module name="kafka-admin" options="-parameters" />
+      <module name="kafka-model" options="-parameters" />
+      <module name="microservices-demo" options="" />
       <module name="twitter-to-kafka-service" options="-parameters" />
     </option>
   </component>
