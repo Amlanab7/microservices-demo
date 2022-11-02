@@ -1,0 +1,533 @@
+2022-10-31 10:45:10 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on AmlanB-win-LP with PID 8500 (C:\Users\AmlanB\Downloads\microservices-demo\twitter-to-kafka-service\target\classes started by AmlanB in C:\Users\AmlanB\Downloads\microservices-demo)
+2022-10-31 10:45:10 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-10-31 10:45:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.174 seconds (JVM running for 2.065)
+2022-10-31 10:45:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-10-31 10:45:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-10-31 10:45:11 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-10-31 10:45:11 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2KafkaStreamRunner - Created filter for twitter stream for keywords: [Java, Microservices, Kafka, Elasticsearch]
+2022-10-31 10:45:13 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2StreamHelper - Created rules for twitter stream Java
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/r8R7K6G6ah
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/Qfp8ugiBLx
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @_SeaAqua さっきサーバーが見えなかったのは、統合版で、見る場所が違ってたからでした。ごめんなさい🙇
+今JAVA版で入れました！
+11月、間に合いましたね！さすがですっ！！😆
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Ben Franklin once trolled an opposing Almanac proprietor by saying they had died
+and every time the rival owner tried to refute the claims, Franklin said the statements were being made by the rival owner’s ghost https://t.co/xbDVnSkSfz
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text どこだっけ
+
+みずほ？ https://t.co/HKMu6ZWxSi
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Its called "Darkomizer" https://t.co/o63RM8QYXg
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @bushuev_online: Great graphic on #DataScience Landscape #BigData #Analytics #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorF…
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @narendramodi @Bhupendrapbjp Javabdaar loko ka ghar tuti java joiye. Emni pase kai na rehvu joiye
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 5 Warga Madura Terlibat dengan Jaringan Teroris Jamaah Islamiyah https://t.co/RnlhpLjNMl
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/BrtCoYlgcC
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/5qiS0yYVTn
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:3位 (ゲーム、おもちゃ)
+
+ポケモン (Joshinオリジナル特典付)(Switch)ポケットモンスター バイオレットポケモン 返品種別B...(14:15)
+
+https://t.co/FY9c1darww
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:28位❗(今週の新着)
+
+「シリコーンバッグ ボウル S クリア 電子レンジ・食洗器対応 保存容器・キャニスター ST2BWL00」
+メーカ:スタッシャー（Stasher）
+
+価格:¥2,310✨
+🔥売り切れ間近🔥(14:15)
+
+https://t.co/B1OulrDvG3
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：8位❗(CPU)
+
+「■AMD Ryzen 7 5700G With Wraith Stealth cooler  (8C16T3.8GHz65W)  100-100000263BOX」
+メーカ:AMD
+
+価格:¥54,773✨
+🔥売り切れ間近🔥(14:15)
+
+https://t.co/1Z0QCkoNyE
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text FWB ❤️‍🔥 I’m looking for a (hopefully) long time partner, about me:
+
+- F21, 155/42
+- Smoker, drinker
+- Glasses girl
+- Loud about football, MLBB and anime.
+- Live in Solo, Central Java.
+- I feel comfortable talking in English, so I hope you won’t judge.  (cont..) https://t.co/ZHIuyvfy26
+2022-10-31 10:46:52 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Please reply with your age, height and weight if you’re interested. Or simply hit me on DM, I’ll be on likes (with 💗 emoji)
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @PilonParis: 🌍Télégram👉: https://t.co/BrtCoYlgcC
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #an…
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @HannyahZ: There is a reason every single example for western comics you put is old.
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @bilgisaat: "Sevdiğin her şey muhtemelen kaybolacak, ama sonunda sevgi başka bir şekilde geri dönecek."
+
+İmza
+Franz Kafka.
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @kacha_shruti Kal to java he 🫠
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Java_jigga This was Ben Franklin’s whole raison d’etre
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @PulseNigeria247: It’s Afropolitan @afropolitanvibe Vibes day today! 
+
+Come join us at Muri Okunola Park. 
+
+Show starts 8pm prompt.
+
+Aft…
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @GateWayrecover: Snapchat? Twitter? Instagram?
+Facebook?
+WhatsApp?? #MachineLearning
+#CyberSecurity
+#Python #RStats #TensorFlow #Java
+#J…
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @KiranParmar1255: 🤖 MLOps Overview 👨‍💻
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow…
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/MCB1fDM0UE
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/nTmzVqmBmT
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text eCommerce Architect (API Cloud Microservices - full stack serverless)
+Cloud Native API Microservices Solution Architect (online commerce/consumer products/B2C/D2C)     E... #Camberley #CamberleyJobs #UKJobs
+https://t.co/tCdWLWUcrz
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @calistahtwitch: Talvez eu deixe o Java um pouco guardado e aprenda Java script ,sinto que chegou o momento
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @MonacoPilon well done!
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Hey Devs Take Survey &amp; Win A Macbook #Programming #DigitalMarketing #cybersecurity #MachineLearning #100DaysOfCode#Python#Wordpress #flutter#nodejs #javascript #Angular #developer #php #Swift#VueJS#Kotlin #Java #Reactjs #DATA#AWSCertified #BTC
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @GateWayrecover: Snapchat? Twitter? Instagram?
+Facebook?
+WhatsApp?? #MachineLearning
+#CyberSecurity
+#Python #RStats #TensorFlow #Java
+#J…
+2022-10-31 10:47:24 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @KiranParmar1255: 🤖 MLOps Overview 👨‍💻
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow…
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @KiranParmar1255: 🤖 MLOps Overview 👨‍💻
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow…
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Ee branch ayina basic coding skills nerchunte chala help avudhi placements apudu https://t.co/QC5BrqRs7T
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Yzslouseonh4o: Hey Devs Take Survey &amp; Win A Macbook #Programming #DigitalMarketing #cybersecurity #MachineLearning #100DaysOfCode#P…
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text slay https://t.co/9YtnZ7v3Gw
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @the_aiju For a long time. I thought I don't like reading anymore, reading is boring...
+
+But I have found: many books (and most technical books) are just badly written.  Avoiding badly written books makes reading fun.
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Shrooms/mushrooms 🍄🍄
+Do you know what role shrooms, mushrooms play in our day-to-day life 
+Dm with the right questions and get satisfaction obtain ❤️❤️
+#shrooms #shroomy #Magic30 #magicmushrooms #mushrooms #mushie #Java #javascript #NFT #PTSD #anxietyrelief #depression #Belfast https://t.co/mpjZkm2cJi
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text どうせJava界隈でまともなオブジェクト指向を扱えるエンジニアなんか一握りだろうからちょうど良いんじゃないの。 https://t.co/2rmVWAbwbF
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 📢 Ensono is hiring a Lead .NET Consultant-4!
+
+🌎 United Kingdom UK
+
+ Apply → https://t.co/JsMq3iXnn0
+
+#jobalert #jobsearch #JobSeekers #microservices #aws #softwareengineer #azure
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Yzslouseonh4o: Hey Devs Take Survey &amp; Win A Macbook #Programming #DigitalMarketing #cybersecurity #MachineLearning #100DaysOfCode#P…
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text java
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS 24y.o 178/80
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/jGS5FGPcnb
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/3HK4Q0aeQj
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @DurpinTick: @KAFKA_Dev Niet meer kunnen tanken omdat je al teveel gereisd hebt
+
+Je het geld binnen een bepaalde periode moet uitgeven.…
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text مدرس خصوصي 
+يحل اختبارات _واجبات
+عمل البحوث _المشاريع 
+لكافة المقررات البرمجية 
+-sql
+-HTML
+-oracl
+-mysql
+-java
+-javascript
+-databases
+-data_structur
+واتس📩✍️👇
+https://t.co/Fg0S51Yj2F
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Yzslouseonh4o: Hey Devs Take Survey &amp; Win A Macbook #Programming #DigitalMarketing #cybersecurity #MachineLearning #100DaysOfCode#P…
+2022-10-31 10:48:34 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Gempa Terjadi di Sukabumi, Warga Merasakan Getaran yang Cukup Kencang https://t.co/TBZS0yAa5O
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Claysiuss: EPIC ENS FOR SALE….
+
+🔹 Letscode.eth 🔷
+
+OPEN TO OFFERS
+
+https://t.co/kuHUvhq2Kl
+
+@EnsSales @EnsSalesBot
+ #letscode #coding #c…
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS M20 180/68
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS 165, 56, 31. Running and cycling almost daily. Jogja.
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @first_issues: Code Linear Search algorithm :infinity: in any programming language you like :computer:  https://t.co/NEHA5Ne1dn #github…
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Rei_Kafka: 「[ I place a kiss upon my beloved "Phantom" Beneath this scarlet dusk sky ]」
+
+茜さす - Aimer【Akane Sasu】
+📅 31 October 2022
+🕰 19…
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Hit me up nder
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @AmschelKavka: See the lilacs, fresher than morning.
+
+Franz Kafka, 1924.
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @AmschelKavka: See the lilacs, fresher than morning.
+
+Franz Kafka, 1924.
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @SpaceCraft_SMP Haha, I cant because my minecraft account is brocken and I cant play on Java 🥲
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/jGS5FGPcnb
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/rLCXxewsWU
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS 19,164,55
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS 20y.o 177/70
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @codingfess lebih tepatnya java tu bahasa static nder
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @codingfess Dulu gasuka. Sekarang malah menurutku bhs paling nyaman😂
+2022-10-31 10:49:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text This mod would kill a switch. Minecraft has to be updated in both bedrock and Java, and be playable on several different consoles. Comparing it to modding on a PC is stupid https://t.co/XtlXIvwL28
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Sayang banget solo🥲
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 【目的別で学ぶプログラミング言語】
+
+機械への組み込み→C言語
+Webサイトの開発→Ruby、PHP
+スマホアプリの開発→Swift、Java
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text COBOL to JAVAの案件で毎年数億円規模の赤字を出している会社が多々あることを考えれば、自動化なんて無理だってことは歴史が証明している https://t.co/7R0aYQ8Vnp
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @MarseillePilon: 🌍Télégram👉: https://t.co/jGS5FGPcnb
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec…
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @h1952 @KajsaOllongren @SigridKaag https://t.co/Md97UxXgHI
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS M24 175/67
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text [udemy discount coupon] JavaFX - Java Programme mit Oberflchen / GUIs erstellen https://t.co/XjRErmRj3c https://t.co/cE0x2s1t2b
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：9位❗(CPU)
+
+「■ Ryzen 5 5600G With Wraith Stealth cooler  (6C12T3.9GHz65W)  100-100000252BOX」
+メーカ:AMD
+
+価格:¥39,252✨
+🔥売り切れ間近🔥(14:18)
+
+https://t.co/NYoiaJXptb
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:29位❗(今週の新着)
+
+「シリコーンバッグ ボウル M クリア 電子レンジ・食洗器対応 保存容器・キャニスター ST4BWL00」
+メーカ:スタッシャー（Stasher）
+
+価格:¥2,993✨
+🔥売り切れ間近🔥(14:18)
+
+https://t.co/2CGboFtl8o
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Hmu!
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @bilgisaat: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin'de bir parkta yürürken, çok sevdiği oyuncak bebeğini kaybettiği için ağ…
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/MCB1fDM0UE
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/XdWtHQyEq6
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @monogonet: Wege entstehen dadurch, dass man sie geht.
+
+Franz Kafka
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @TAKONU_java 丁度切らしてた、助かる。
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @s_abe_all: 12月から稼働可なJava要員様
+(2年以上-5年ほど)募集してます！
+
+詳細設計からご対応可能な日本国籍の要員様でお願い致します🙇‍♂️
+
+DMかラインお待ちしております！
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Snapchat? Twitter? Instagram?
+Facebook?
+WhatsApp?? #MachineLearning
+#CyberSecurity
+#Python #RStats #TensorFlow #Java
+#JavaScript #ReactS #CloudComputing
+#CyberSec #infosec #cybercrime #snapchatdown
+2022-10-31 10:50:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS heyy there let's talk with me on dm
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @_lexhacks: Snapchat? Twitter? Instagram?
+Facebook?
+WhatsApp?? #MachineLearning
+#CyberSecurity
+#Python #RStats #TensorFlow #Java
+#JavaSc…
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @OURadioCrew @LovesTravelStop Us too.
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Want to track a missing phone??
+Break iCloud??
+Access mails from any targeted Gmail?
+#BigData #Analytics #DataScience #AlI
+#MachineLearning #CyberSecurity
+#Python #RStats #TensorFlow #Java
+#JavaScript #ReactS #CloudComputing
+#Serverless #DataScientist #Linux
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @_lexhacks: Want to track a missing phone??
+Break iCloud??
+Access mails from any targeted Gmail?
+#BigData #Analytics #DataScience #AlI
+#…
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Dua Majikan Pelaku Penganiayaan ART di Bandung Barat Terancam 10 Tahun Bui https://t.co/RzT6BbFLGo
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS hmu
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS 27y.o 160/80
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @HannyahZ: There is a reason every single example for western comics you put is old.
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Java_jigga: Ye please I’m fighting for my fucking life https://t.co/VlUClCCZaa
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text whitelist Presell @usadralansari @OrbAlienzz @a0976703569 @Wizer_Z @Deependdegen @monkonstreet @del_cristalesy @ammies_iamlaor @java_origin @BilalHa50710118 @Cayymustafa @Satan39780234 @Waffy_nft @MdAlam57119134 @CryptoyazMan https://t.co/LmLT20XZha
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Sure
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/BrtCoYlgcC
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/2DQrUIfgtn
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Tidy_spirit Lol 😂 how?
+2022-10-31 10:51:02 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Yzslouseonh4o: Hey Devs Take Survey &amp; Win A Macbook #Programming #DigitalMarketing #cybersecurity #MachineLearning #100DaysOfCode#P…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @MarseillePilon: 🌍Télégram👉: https://t.co/jGS5FGPcnb
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @MonacoPilon: 🌍Télégram👉: https://t.co/MCB1fDM0UE
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #a…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @_lexhacks: Want to track a missing phone??
+Break iCloud??
+Access mails from any targeted Gmail?
+#BigData #Analytics #DataScience #AlI
+#…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @MarseillePilon: 🌍Télégram👉: https://t.co/jGS5FGPcnb
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @_lexhacks: Snapchat? Twitter? Instagram?
+Facebook?
+WhatsApp?? #MachineLearning
+#CyberSecurity
+#Python #RStats #TensorFlow #Java
+#JavaSc…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @PilonParis: 🌍Télégram👉: https://t.co/BrtCoYlgcC
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #an…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Claysiuss: EPIC ENS FOR SALE….
+
+🔹 Letscode.eth 🔷
+
+OPEN TO OFFERS
+
+https://t.co/kuHUvhq2Kl
+
+@EnsSales @EnsSalesBot
+ #letscode #coding #c…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @first_issues: Code Linear Search algorithm :infinity: in any programming language you like :computer:  https://t.co/NEHA5Ne1dn #github…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @psyched09296131: Shrooms/mushrooms 🍄🍄
+Do you know what role shrooms, mushrooms play in our day-to-day life 
+Dm with the right questions…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Claysiuss: EPIC ENS FOR SALE….
+
+🔹 Letscode.eth 🔷
+
+OPEN TO OFFERS
+
+https://t.co/kuHUvhq2Kl
+
+@EnsSales @EnsSalesBot
+ #letscode #coding #c…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @moustaphousman: Learning why you have to let go of people
+Learning when to fire co-worker
+Learning how to fire employee
+
+~Mous..tapha..…
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @koreanenemy: @Java_jigga https://t.co/pYkkouxj9z
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS 22 y.o 178/65
+2022-10-31 10:51:16 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Coffee Ice Cream With Dark Chocolate Java Chips>>>>
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @MuskTillDawn: @Java_jigga https://t.co/i4rijUQtVf
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @programmerjoke9: Me, adding comments to my code#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #pyth…
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @32OOOO: #HonkaiStarRail
+#崩壊スターレイル 
+#Trailblazer  
+#March7th 
+#DanHeng 
+#KAFKA 
+#SilverWolf https://t.co/Fwg2ZVky8c
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text With the availability of the @Java SE Subscription Enterprise Performance Pack, users can access significant memory management and performance improvements including modern garbage collection algorithms, compact strings, and more. #Java https://t.co/xeJTCYbkMm https://t.co/qYGO4n6iIL
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @susuyoor: Benim yalnızlığım insanlarla dolu...
+
+Franz Kafka
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Exr_Consultancy: #Infographic: The #Web3 Stack
+#DataScience #Python #DigitalTransformation #MachineLearning #IoT #dataviz #100DaysOfCod…
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @psyched09296131 Then we will start fighting! https://t.co/Qx8wLMI8bI
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 🌍Télégram👉: https://t.co/iER5K4HpEF
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #annacy #gamedev #anime #france #gamedevelopment #gamedesign #indiegame #mobilegaming #paris #Nantes #videogaming #qc2022  #gaming  #VMAs    #beuh #TeamOM https://t.co/mBaFTK5mlh
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:4位 (ゲーム、おもちゃ)
+
+スプラ トゥーン 3 splatoon3 Switch スイッチ ゲームソフト 新品...(14:20)
+
+https://t.co/CH1uVwdmJj
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Pilonfrance6: 🌍Télégram👉: https://t.co/iER5K4HpEF
+Snapchat:suzaplug 
+#Java #Programming #Coding #100DaysofCode #poupettekenza #quebec #…
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @KiranParmar1255: 🤖 MLOps Overview 👨‍💻
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow…
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text JavaのParallelStreamで最大並列処理数を変更する方法 - エキサイト TechBlog. https://t.co/vRc2ivvsDe
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS hit me up
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @kafka_daily: slay https://t.co/9YtnZ7v3Gw
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @first_issues: Code Linear Search algorithm :infinity: in any programming language you like :computer:  https://t.co/NEHA5Ne1dn #github…
+2022-10-31 10:52:26 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Jadwal & Harga Tiket Bioskop di Kuta Senin (31/10): Plaza Sunset – Galeria XXI https://t.co/oIvXYRIAYc
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @_lexhacks: Want to track a missing phone??
+Break iCloud??
+Access mails from any targeted Gmail?
+#BigData #Analytics #DataScience #AlI
+#…
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @GraaavelSMP Is it java or bedrock lol
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @programmerjoke9: The workflow#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python #reactjs #bugbo…
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Hmu, m24 163/60
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @AmschelKavka: See the lilacs, fresher than morning.
+
+Franz Kafka, 1924.
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS :)) same interest with football, games, and anime. sayangnya terlalu jauh :')
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Please hit me because im so fucking into football
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @KAFKA_Dev 👌🏾💖
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @yonzero401 javaで自作ツールを作ってやりました～。
+ゴゴジャンで似たようなことをやっているので今回はEABank用にカスタマイズしただけっす😌
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：10位❗(CPU)
+
+「水冷CPUクーラー iCUE H100i RGB PRO XT CW-9060043-WW」
+メーカ:Corsair
+
+価格:¥13,620✨
+🔥売り切れ間近🔥(14:21)
+
+https://t.co/oGNcPc5MXD
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:30位❗(今週の新着)
+
+「シリコーンバッグ ボウル L クリア 電子レンジ・食洗器対応 保存容器・キャニスター ST6BWL00」
+メーカ:スタッシャー（Stasher）
+
+価格:¥3,960✨
+🔥売り切れ間近🔥(14:21)
+
+https://t.co/0wtfUvHn58
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Download it:  https://t.co/hWy9JxAx8D
+#100DaysOfCode #algorithm #DEVCommunity #indiedev #Python #developers #career #codinglife #learntocode #programming #javascript #Coding #Java #DSA #pythonchallenge #pythoncode #FAANG #programmer #AI #MachineLearning
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @seokonikaislam: The Essentials of Storytelling
+
+#BigData #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow #J…
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Amark2627 👏👏
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Amark2627: Download it:  https://t.co/hWy9JxAx8D
+#100DaysOfCode #algorithm #DEVCommunity #indiedev #Python #developers #career #codingl…
+2022-10-31 10:52:57 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @utuko_chan ガガガ…🤖プシュー💕
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @senthazalravi: @arunstunning Yes we do.
+
+1. Data Scientist
+2. Java Developer
+3. Web Full stack developer 
+
+We are hiring all 3 sections…
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @s_abe_all: 12月から稼働可なJava要員様
+(2年以上-5年ほど)募集してます！
+
+詳細設計からご対応可能な日本国籍の要員様でお願い致します🙇‍♂️
+
+DMかラインお待ちしております！
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @seokonikaislam: Python Libraries & Frameworks 👨‍💻
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats…
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Download it:  https://t.co/EhewfF5RiV
+#100DaysOfCode #algorithm #DEVCommunity #indiedev #Python #developers #career #codinglife #learntocode #programming #javascript #Coding #Java #DSA #pythonchallenge #pythoncode #FAANG #programmer #AI #MachineLearning
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text #ScrivoQuelCheSento
+#ScrivoArte
+“Nessun regalo è troppo piccolo da donare,e nemmeno troppo semplice da ricevere,se è scelto con giudizio e dato con amore”.
+F Kafka
+#TorniamoATeatro #SalaLettura
+#PensieroIndelebile
+@DavLucia @bralella09 @Mercurimc
+#CondominioDiScrivoArte
+G Bellei https://t.co/YnTUsSgtE5
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Amark2627: Download it:  https://t.co/EhewfF5RiV
+#100DaysOfCode #algorithm #DEVCommunity #indiedev #Python #developers #career #codingl…
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Rebeka80721106: #ScrivoQuelCheSento
+#ScrivoArte
+“Nessun regalo è troppo piccolo da donare,e nemmeno troppo semplice da ricevere,se è sc…
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+
+#Java
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @bilgisaat: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin'de bir parkta yürürken, çok sevdiği oyuncak bebeğini kaybettiği için ağ…
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text MEDIOR ÉS SENIOR JAVA FEJLESZTŐ https://t.co/HnHnfcwqAn
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @2021_SHINeON 春樹さん
+アイコン素敵ですね(　･ิω･ิ)✨
+石油王の気配が漂ってます😊
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 11月即日で品川常駐の案件でJavaの大量募集あります！3年前後のJavaのご経験のある方おりましたら、ご紹介ください！
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:4位 「スマートフォン・アクセサリ」 (14:22)
+
+MHJA3AMA
+
+価格:-🔥
+
+https://t.co/0OV4RUlLe1
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @bilgisaat: "Sevdiğin her şey muhtemelen kaybolacak, ama sonunda sevgi başka bir şekilde geri dönecek."
+
+İmza
+Franz Kafka.
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @AmschelKavka: See the lilacs, fresher than morning.
+
+Franz Kafka, 1924.
+2022-10-31 10:54:10 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ProtectingBirds: On October 23, FLIGHT assisted Surabaya Quarantine officers in rescuing 85 Olive-winged Bulbul, magpie robin, and whit…
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 11月即日で品川常駐の案件でJavaの大量募集あります！3年前後のJavaのご経験のある方おりましたら、ご紹介ください！12月～でもOKです。
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @moelholm @konrbk @maciejwalkowiak You mean old school as the three +25 years old programming languages Java, JavaScript and Python 😉
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Sakjose
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @java_experts @_screenshoter gives colorful screenshot.
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS 25
+175
+67
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @FWBESS Letsgo
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @_lexhacks: Snapchat? Twitter? Instagram?
+Facebook?
+WhatsApp?? #MachineLearning
+#CyberSecurity
+#Python #RStats #TensorFlow #Java
+#JavaSc…
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @_lexhacks: Want to track a missing phone??
+Break iCloud??
+Access mails from any targeted Gmail?
+#BigData #Analytics #DataScience #AlI
+#…
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 👉 Apply Now: https://t.co/e4MlHmDHNN
+DevOps Fresher Recruitment Drive - Only for Naresh IT Students.
+👉Skills: DevOps
+👉Eligibility: B.E/B.Tech/M.Tech/MCA
+📅 Apply Before 3rd November 2022
+👉Package: 3.0 LPA
+
+#Devops #cloud #java #cloud #programming #placements #drive #job #it https://t.co/dGIVfbhl4D
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 2 Java + Spring Boot for the backend.
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 3 Cassandra (no-SQL) database for data storage.
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @nareshitech: 👉 Apply Now: https://t.co/e4MlHmDHNN
+DevOps Fresher Recruitment Drive - Only for Naresh IT Students.
+👉Skills: DevOps
+👉Elig…
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @PomoThug: @Summer_rains97 @Java_jigga Must have been what it felt like to invest in Apple back in the day.
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @M_Cafe_java いえ！皆さんも頑張っておられますから…決して、私だけでは無いですよ！！
+しっかりと良い結果を出すには我慢も大事ですから！！(ｸｽｯ
+2022-10-31 10:55:08 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Angular 13 Firebase Storage: Upload/Retrieve/Download/Delete File
+#angular #technology #android #webdesign #code #website #web #development #programming #coding #python #developer #java #software #webdevelopment #webdesigner #webdeveloper #javascript ...
+https://t.co/8Fsch5LMZM
+2022-10-31 18:47:27 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on AmlanB-win-LP with PID 9916 (C:\Users\AmlanB\Downloads\microservices-demo\twitter-to-kafka-service\target\classes started by AmlanB in C:\Users\AmlanB\Downloads\microservices-demo)
+2022-10-31 18:47:27 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-10-31 18:47:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.279 seconds (JVM running for 1.986)
+2022-10-31 18:47:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-10-31 18:47:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-10-31 18:47:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-10-31 18:47:28 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2KafkaStreamRunner - Created filter for twitter stream for keywords: [Java, Microservices, Kafka, Elasticsearch]
+2022-10-31 18:47:30 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterV2StreamHelper - Created rules for twitter stream Java
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @SwissCognitive: 10 programming languages and their uses 👨‍💻
+
+by @DataScienceDojo
+
+More with sources to learn:
+https://t.co/ZuVUgCDCaA…
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @jamrick_ @handymanNairobi Omw to create multiple accounts ndio nifollow tufike 1650😂😂 https://t.co/emlttN2xmr
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @javiercelaya: De reunión en reunión en un roof-top a otro roof-top por Lisboa @websummit #WebSummit @java_lisboa https://t.co/B6ukZSCeHg
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Understanding Pulsar in 10 Minutes: A Guide for Kafka Users https://t.co/zod9uBHowe
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Some of the best philosophers in history are from Germany — Friedrich Hegel, Karl Marx, Arthur Schopenhauer, Martin Heidegger, Ludwig Feuerbach, and Friedrich Schleiermacher. 4/
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text November 7th Intake on! Build end-to-end applications plus earn an industry-recognized certification from Oracle! Enrol today here https://t.co/Mrce54OyCb #developer #java #oracledatabase #programming #programminglanguage #coding #coders #coderslife #Mshwari #MBchB #BDTop40Men https://t.co/lBmctqnzhb
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @4batakeru: NHKだよ‼️
+シネマ「蜜蜂と遠雷」
+松岡茉優、松坂桃李、森崎ウィン、鈴鹿央士共演。若きピアニストたちの挑戦と成長を描き、直木賞と本屋大賞を受賞した恩田陸の小説を石川慶監督が映画化した青春群像劇。
+11/5(土) 13:30～15:31  ＮＨＫ…
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @heyValdemar: Bash cheat sheet
+
+#devops #devsecops #kubernetes #cicd #k8s #linux #docker #sysadmin #automation #technology #cloudcomputi…
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @alinah_joyp: November 7th Intake on! Build end-to-end applications plus earn an industry-recognized certification from Oracle! Enrol to…
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text shot with Horseman970
+film: lucky 1023 https://t.co/WYTlh9FHkr
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Drum rolls 1649 the next follower wa @handymanNairobi anapata lunj ya java
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @JspidersOar: CONGRATULATIONS!
+#jspiders #bangalore #bengaluru #developer #recruitment #Python #datascience #java #javadevelopment #Pyth…
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Java from Beginner to Expert #BigData via https://t.co/GqRYjZeVgU https://t.co/klmLW66pqt
+2022-10-31 18:48:22 [main] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text #7222 Java Developer Senior WSOP
+Bucharest Bucharest Romania
+Job: https://t.co/gxwWnqM65w
+#java #git #kafka
