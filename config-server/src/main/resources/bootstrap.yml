@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: configserver
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Amlanab7/spring-cloud-config-server-repository
+          default-label: main
+          username: Amlanab7
+          password: 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
+          clone-on-start: true
+    fail-fast: true
+  security:
+    user:
+      name: spring_cloud_user
+      password: springCloud_Pass
