@@ -8,10 +8,11 @@ spring:
           uri: https://github.com/Amlanab7/spring-cloud-config-server-repository
           default-label: main
           username: Amlanab7
-          password: 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
+          password: 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
           clone-on-start: true
     fail-fast: true
   security:
     user:
       name: spring_cloud_user
-      password: springCloud_Pass
+      password: '{cipher}052bdfbaa7806203f84ab6a3e08be886f888894beb1f1c1fdffdb8f6f7f3e9ebbe2f2dfd458e8df666848a34ce48bf38'
+

@@ -1,0 +1,110 @@
+2022-11-10 06:48:03 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2022-11-10 06:48:05 [main] INFO  c.m.demo.config.server.ConfigServer - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 06:48:08 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=de1dfe3d-1cb0-3f3c-983d-2927146752c9
+2022-11-10 06:48:09 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2022-11-10 06:48:09 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2022-11-10 06:48:09 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 06:48:09 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-10 06:48:09 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 06:48:09 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3972 ms
+2022-11-10 06:48:11 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@477523ba, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@203e705e, org.springframework.security.web.context.SecurityContextPersistenceFilter@6ad6443, org.springframework.security.web.header.HeaderWriterFilter@47fcefb3, org.springframework.security.web.csrf.CsrfFilter@4652c74d, org.springframework.security.web.authentication.logout.LogoutFilter@2ee4706d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3a40bb52, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@69a5c6be, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@78c74647, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7bd38fed, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3f5dfe69, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@571a663c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@39652a30, org.springframework.security.web.session.SessionManagementFilter@68e2d03e, org.springframework.security.web.access.ExceptionTranslationFilter@2c48cede, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6aae0e6f]
+2022-11-10 06:48:11 [main] WARN  o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/actuator/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-11-10 06:48:11 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will not secure Ant [pattern='/actuator/**']
+2022-11-10 06:48:11 [main] WARN  o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/encrypt/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-11-10 06:48:11 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will not secure Ant [pattern='/encrypt/**']
+2022-11-10 06:48:11 [main] WARN  o.s.s.c.a.web.builders.WebSecurity - You are asking Spring Security to ignore Ant [pattern='/decrypt/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-11-10 06:48:11 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will not secure Ant [pattern='/decrypt/**']
+2022-11-10 06:48:19 [main] WARN  o.s.c.c.s.e.MultipleJGitEnvironmentRepository - Error occured cloning to base directory.
+org.eclipse.jgit.api.errors.TransportException: https://github.com/Amlanab7/spring-cloud-config-server-repository: not authorized
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:224)
+	at org.eclipse.jgit.api.CloneCommand.fetch(CloneCommand.java:303)
+	at org.eclipse.jgit.api.CloneCommand.call(CloneCommand.java:178)
+	at org.springframework.cloud.config.server.environment.JGitEnvironmentRepository.cloneToBasedir(JGitEnvironmentRepository.java:658)
+	at org.springframework.cloud.config.server.environment.JGitEnvironmentRepository.initClonedRepository(JGitEnvironmentRepository.java:363)
+	at org.springframework.cloud.config.server.environment.JGitEnvironmentRepository.afterPropertiesSet(JGitEnvironmentRepository.java:284)
+	at org.springframework.cloud.config.server.environment.MultipleJGitEnvironmentRepository.afterPropertiesSet(MultipleJGitEnvironmentRepository.java:66)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.microservices.demo.config.server.ConfigServer.main(ConfigServer.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/Amlanab7/spring-cloud-config-server-repository: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:465)
+	at org.eclipse.jgit.transport.FetchProcess.executeImp(FetchProcess.java:142)
+	at org.eclipse.jgit.transport.FetchProcess.execute(FetchProcess.java:94)
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1309)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:213)
+	... 32 common frames omitted
+2022-11-10 06:48:19 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'defaultEnvironmentRepository' defined in class path resource [org/springframework/cloud/config/server/config/DefaultRepositoryConfiguration.class]: Invocation of init method failed; nested exception is org.eclipse.jgit.api.errors.TransportException: https://github.com/Amlanab7/spring-cloud-config-server-repository: not authorized
+2022-11-10 06:48:19 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 06:48:19 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-11-10 06:48:19 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'defaultEnvironmentRepository' defined in class path resource [org/springframework/cloud/config/server/config/DefaultRepositoryConfiguration.class]: Invocation of init method failed; nested exception is org.eclipse.jgit.api.errors.TransportException: https://github.com/Amlanab7/spring-cloud-config-server-repository: not authorized
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.microservices.demo.config.server.ConfigServer.main(ConfigServer.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+Caused by: org.eclipse.jgit.api.errors.TransportException: https://github.com/Amlanab7/spring-cloud-config-server-repository: not authorized
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:224)
+	at org.eclipse.jgit.api.CloneCommand.fetch(CloneCommand.java:303)
+	at org.eclipse.jgit.api.CloneCommand.call(CloneCommand.java:178)
+	at org.springframework.cloud.config.server.environment.JGitEnvironmentRepository.cloneToBasedir(JGitEnvironmentRepository.java:658)
+	at org.springframework.cloud.config.server.environment.JGitEnvironmentRepository.initClonedRepository(JGitEnvironmentRepository.java:363)
+	at org.springframework.cloud.config.server.environment.JGitEnvironmentRepository.afterPropertiesSet(JGitEnvironmentRepository.java:284)
+	at org.springframework.cloud.config.server.environment.MultipleJGitEnvironmentRepository.afterPropertiesSet(MultipleJGitEnvironmentRepository.java:66)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 24 common frames omitted
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/Amlanab7/spring-cloud-config-server-repository: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:465)
+	at org.eclipse.jgit.transport.FetchProcess.executeImp(FetchProcess.java:142)
+	at org.eclipse.jgit.transport.FetchProcess.execute(FetchProcess.java:94)
+	at org.eclipse.jgit.transport.Transport.fetch(Transport.java:1309)
+	at org.eclipse.jgit.api.FetchCommand.call(FetchCommand.java:213)
+	... 32 common frames omitted

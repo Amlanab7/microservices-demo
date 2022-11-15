@@ -1,0 +1,3 @@
+com\microservices\demo\config\server\ConfigServer.class
+com\microservices\demo\config\server\SecurityConfig.class
+com\microservices\demo\Main.class
